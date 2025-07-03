@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/quynhanhnd2402/UChicago/Fourth Quarter/MLOps/dvc_remote_cache
